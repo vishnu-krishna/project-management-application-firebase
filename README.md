@@ -2,7 +2,7 @@
 
 This application is a project management app with firebase backend.
 
-This is deployed at [Project Management Application](chat-app-react-b8f26.firebaseapp.com)
+This is deployed at [Project Management Application](https://chat-app-react-b8f26.firebaseapp.com/)
 
 ## Available Scripts
 
